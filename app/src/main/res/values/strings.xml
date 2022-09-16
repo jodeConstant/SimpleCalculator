@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Personal Calculator</string>
+    <string name="_pls">%1$s + %2$s</string>
+    <string name="_mns">%1$s - %2$s</string>
+    <string name="_mlt">%1$s * %2$s</string>
+    <string name="_div">%1$s / %2$s</string>
+    <string name="_pow">%1$s ^ %2$s</string>
+    <string name="_rot">%2$s \u221a %1$s</string>
+    <string name="_sin">sin ( %1$s )</string>
+    <string name="_cos">cos ( %1$s )</string>
+    <string name="_tan">tan ( %1$s )</string>
+    <string name="_asn">arcsin ( %1$s )</string>
+    <string name="_acs">arccos ( %1$s )</string>
+    <string name="_atn">arctan ( %1$s )</string>
+    <string name="_fct">%1$s !</string>
+</resources>
