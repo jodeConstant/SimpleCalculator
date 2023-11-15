@@ -1,4 +1,7 @@
 # SimpleCalculator
+
+**DISCLAIMER: This project has been indefinitely shelved, as I focus on working with other projects. I may revisit this later, if I decide to work on more Androiod apps.**
+
 A simple calculator for Android, work in progress
 
 ### TODO list:
